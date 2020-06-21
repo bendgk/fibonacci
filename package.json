@@ -7,7 +7,10 @@
     "start": "gulp",
     "build": "gulp sass"
   },
-  "keywords": ["template", "blog"],
+  "keywords": [
+    "template",
+    "blog"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/VJAI/fibonacci.git"
